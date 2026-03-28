@@ -11,8 +11,8 @@ Una plataforma de e-commerce necesita mejorar su sistema de recomendaciones de p
 
 Se diseñó un asistente basado en IA generativa capaz de procesar requerimientos en lenguaje natural y generar automáticamente:
 
-Historias de usuario
-Criterios de aceptación
-Propuestas de solución técnica
-Identificación de riesgos
-Métricas de éxito
+-Historias de usuario
+-Criterios de aceptación
+-Propuestas de solución técnica
+-Identificación de riesgos
+-Métricas de éxito
