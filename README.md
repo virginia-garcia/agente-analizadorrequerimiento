@@ -1,4 +1,4 @@
-# agente-analizadorrequerimiento
+# Agente-Analizador de Requerimiento
 asistente basado en IA generativa capaz de procesar requerimientos en lenguaje natural y generar automáticamente
 🎯 Objetivo
 Desarrollar un flujo de trabajo que permita transformar requerimientos de negocio en documentación funcional estructurada, facilitando la comunicación entre stakeholders y equipos técnicos.
