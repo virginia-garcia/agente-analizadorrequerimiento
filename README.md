@@ -16,3 +16,27 @@ Se diseñó un asistente basado en IA generativa capaz de procesar requerimiento
 -Propuestas de solución técnica
 -Identificación de riesgos
 -Métricas de éxito
+
+Pasos de configruación par apoder utilizar este Programa:
+1. Tener Python instalado
+Primero verificá si ya lo tenés:
+python --version
+Si te aparece una versión (ej: 3.11), ya estás lista
+Si no → tenés que instalarlo desde Python.
+
+2. Instalar la librería necesaria
+
+pip install openai
+
+(o si usás python3)
+pip3 install openai
+
+3. API Key 
+
+Necesitás una clave de OpenAI.
+
+Pasos:
+
+Ir a: https://platform.openai.com/
+Crear cuenta / loguearte
+Generar API Key
