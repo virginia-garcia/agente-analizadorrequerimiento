@@ -1,0 +1,5 @@
+.env
+salida/
+__pycache__/
+*.pyc
+.venv/
