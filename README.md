@@ -80,7 +80,7 @@ Necesitás una clave de OpenAI.
 
 Pasos:
 
-1. Ir a <https://platform.openai.com/>
+1. Ir a <[https://platform.openai.com/](https://aistudio.google.com/api-keys)>
 2. Crear cuenta / loguearte
 3. Generar una API Key
 4. Copiar el archivo de ejemplo y pegar tu clave:
