@@ -1,0 +1,7 @@
+openai>=1.0.0
+pydantic>=2.0
+python-dotenv
+python-docx
+reportlab
+streamlit
+pytest
