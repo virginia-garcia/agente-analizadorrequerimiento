@@ -18,8 +18,10 @@ T = TypeVar("T", bound=BaseModel)
 
 
 def llamar_llm(system: str, user: str) -> str:
-    """Llamada cruda al modelo; devuelve texto JSON. (Se mockea en los tests.)"""
-    client = OpenAI()  
+    client = OpenAI(
+    api_key=os.getenv("LLM_API_KEY") or os.getenv("OPENAI_API_KEY"),
+    base_url=os.getenv("LLM_BASE_URL") or None,
+    )  
     resp = client.chat.completions.create(
         model=MODELO,
         temperature=0.3,
